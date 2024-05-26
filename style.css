@@ -98,6 +98,9 @@ font-size: 490%;
       font-size: 70%;
       margin-bottom: -5px;
   }
+  .carousel-caption{
+    margin-bottom: -10px;
+  }
 }
 @media screen and (min-width: 577px) and (max-width: 991px){
   .first-para{
@@ -187,6 +190,13 @@ margin-top: -50px;
   color: white;
   padding-right: 5vw;
 }
+@media screen and (min-width:200px) and (max-width: 991px){
+  .websiteMake-2{
+    color: white;
+    padding-right: 0vw;
+  }
+}
+
 /* .text-1{
   font-size: 30px;
 }
@@ -194,12 +204,12 @@ margin-top: -50px;
   font-size: 15px;
 } */
 @media only screen and (max-width:700px){
-  .text2{
+  /* .text2{
       font-size: 13px;
   }
   .text-1{
       font-size: 20px;
-  }
+  } */
   .services{
       font-size:40px;
       color: white;
@@ -357,6 +367,11 @@ margin-top: -50px;
   width: 6vw;
   height: 6vw;
   margin-top: 2vw;
+}
+@media screen and (min-width:200px) and (max-width: 991px){
+  .techno-div{
+ margin-right: 4vw;
+  }
 }
  
  /* work */
